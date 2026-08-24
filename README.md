@@ -1,16 +1,15 @@
-# 🤖 Gemini Quality Writer
+# Gemini Quality Writer
 
-အရည်အသွေးမြင့် Script နဲ့ Content တွေကို အလိုအလျောက် ထုတ်ပေးတဲ့ Web App ဖြစ်ပါတယ်။
+A high-quality Script and Content Generator powered by Google Gemini AI.
 
-## ✨ အသုံးပြုနည်း
-1. ဘေးဘားမှာ Gemini API Key ထည့်ပါ
-2. ကိုယ်လိုချင်တဲ့ Script ဒါမှမဟုတ် Content အကြောင်း ရိုက်ထည့်ပါ
-3. အရည်အသွေးမြင့် Output ကို ချက်ချင်းရယူလိုက်ပါ
+## How to use
+1. Enter your Gemini API Key in the sidebar.
+2. Type your request (e.g., "Write a Python script for automation").
+3. Get high-quality output instantly.
 
-## 🔧 လိုအပ်ချက်များ
+## Requirements
 - Streamlit
 - Google Generative AI
 
-## 📱 ဖုန်းနဲ့ သုံးနည်း
-ဒီ App ကို Streamlit Cloud မှာ Deploy လုပ်ပြီး ဖုန်းက Browser နဲ့ ဖွင့်သုံးလို့ရပါတယ်။# app.py
-အရည်သွေးမြင့် script / content 
+## Mobile Usage
+Deploy on Streamlit Cloud and open the URL on your phone browser.
